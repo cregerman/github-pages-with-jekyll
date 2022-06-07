@@ -1,9 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Caroline's Final Project"
 ---
 
-Hi, my name is Caroline
+Hi, my name is Caroline. This is my final project for APCSA
 
-<img src= "pic one.jpg">
-<img src= "pic two.jpg">
+<img src= "seniorpic.jpg">
 
